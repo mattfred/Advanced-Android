@@ -5,3 +5,4 @@ Concepts Covered:
  - Dagger 2
  - Retrofit
  - Android Testing
+ - Picasso
